@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\spring\\Work - (.net core)\\ProductStore\\PS.Console\\PS.Console.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\spring\\Work - (.net core)\\ProductStore\\PS.Console\\PS.Consoles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\spring\\Work - (.net core)\\ProductStore\\PS.Console\\PS.Console.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\spring\\Work - (.net core)\\ProductStore\\PS.Console\\PS.Consoles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\spring\\Work - (.net core)\\ProductStore\\PS.Console\\PS.Console.csproj",
-        "projectName": "PS.Console",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\spring\\Work - (.net core)\\ProductStore\\PS.Console\\PS.Console.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\spring\\Work - (.net core)\\ProductStore\\PS.Console\\PS.Consoles.csproj",
+        "projectName": "PS.Consoles",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\spring\\Work - (.net core)\\ProductStore\\PS.Console\\PS.Consoles.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\LENOVO\\Desktop\\spring\\Work - (.net core)\\ProductStore\\PS.Console\\obj\\",
         "projectStyle": "PackageReference",
